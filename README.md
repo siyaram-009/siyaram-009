@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siyaram-009
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Android App Development
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on my projects{but not now :]}
 - 📫 How to reach me 
 
